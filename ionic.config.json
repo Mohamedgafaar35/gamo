@@ -1,0 +1,8 @@
+{
+  "name": "GAMO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d9a6cec6"
+}
